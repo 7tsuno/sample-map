@@ -2,7 +2,10 @@ import React from 'react'
 import Map from './Map'
 
 const sampleData = {
-  mapUrl : ''
+  mapUrl : 'https://github.com/7tsuno/sample-map/blob/master/assets/sample/map.png?raw=true',
+  icons : [
+
+  ]
 }
 
 
